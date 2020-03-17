@@ -1,4 +1,4 @@
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020/3/17 上午10:43:26）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：3/17/2020, 8:29:39 AM）**
 
 <div align="center">
 	<div>
@@ -652,7 +652,7 @@
 - [TestCafe](https://github.com/DevExpress/testcafe) - 浏览器自动化测试
 - [abstruse](https://github.com/bleenco/abstruse) - 持续集成服务器
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - 端到端测试
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - 无头的Chrome
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome
 - [Playwright](https://github.com/microsoft/playwright) - Headless Chromium，WebKit，和 Firefox 使用单一的 API。
 - [nve](https://github.com/ehmicky/nve) - 在Node.js的多个版本上本地运行任何命令。
 
