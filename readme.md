@@ -1,3 +1,5 @@
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020/3/17 上午10:43:26）**
+
 <div align="center">
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
@@ -623,7 +625,7 @@
 - [Finale](https://github.com/tommybananas/finale) - 用于Sequelize模型的RESTful端点生成器
 - [database-js](https://github.com/mlaanderson/database-js) - 用于具有类似jdbc连接的多个数据库的包装器
 - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - 用JavaScript和JSON文件填充MongoDB数据库
-- [@databases](https://github.com/ForbesLindesay/atdatabases) - 查询PostgreSQL, MySQL和SQLite3与普通SQL没有风险的SQL注入。
+- [@databases](https://github.com/ForbesLindesay/atdatabases) - 查询 PostgreSQL, MySQL 和 SQLite3 与普通SQL - 没有风险的SQL注入。
 
 ### 测试
 *翻译出错了? 试试 [英文版](readme_en.md#Testing) 吧~*
@@ -651,7 +653,7 @@
 - [abstruse](https://github.com/bleenco/abstruse) - 持续集成服务器
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - 端到端测试
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - 无头的Chrome
-- [Playwright](https://github.com/microsoft/playwright) - 无头铬，WebKit，和Firefox与一个单一的API。
+- [Playwright](https://github.com/microsoft/playwright) - Headless Chromium，WebKit，和 Firefox 使用单一的 API。
 - [nve](https://github.com/ehmicky/nve) - 在Node.js的多个版本上本地运行任何命令。
 
 ### 安全
@@ -842,7 +844,7 @@
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) - 纯JavaScript库，用于处理MP4和FLV视频文件，并为HLS流媒体创建MPEG-TS块
 - [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
 - [cashify](https://github.com/xxczaki/cashify) - 货币转换。
-- [genepi](https://github.com/Geode-solutions/genepi) - 自动生成一个本机Node.js插件从c++代码。
+- [genepi](https://github.com/Geode-solutions/genepi) - 从c++代码自动生成一个本机Node.js插件。
 
 ## 资源
 
