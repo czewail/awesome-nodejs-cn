@@ -1,4 +1,4 @@
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-18 10:18:02）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-19 07:04:54）**
 
 <div align="center">
 	<div>
@@ -486,7 +486,7 @@
 - [matcher](https://github.com/sindresorhus/matcher) - 简单的通配符匹配
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - 在视觉上规范化相似的unicode字符
 - [i18next](https://github.com/i18next/i18next) - 国际化框架
-- [nanoid](https://github.com/ai/nanoid) - 微小，安全，url友好，唯一的字符串ID生成器
+- [nanoid](https://github.com/ai/nanoid) - 迷你，安全，url友好，唯一的字符串ID生成器
 
 ### 数量
 *翻译出错了? 试试 [英文版](readme_en.md#Number) 吧~*
