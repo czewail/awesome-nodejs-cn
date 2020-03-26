@@ -1,8 +1,8 @@
 
-[Awesome]: media/icons/awesome.svg "star > 2000"
-[Green]: media/icons/Green.svg "最近一周有更新"
-[Yellow]: media/icons/Yellow.svg "最近一年没有更新"
-[Archived]: media/icons/archived.svg "项目已归档"
+[Awesome]: icons/awesome.svg "star > 2000"
+[Green]: icons/Green.svg "最近一周有更新"
+[Yellow]: icons/Yellow.svg "最近一年没有更新"
+[Archived]: icons/archived.svg "项目已归档"
       
 <div align="center">
 	<div>
@@ -46,7 +46,7 @@
 	<br>
 </div>
 
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 17:26:27）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 17:28:30）**
 
 **小图标说明** :
 
