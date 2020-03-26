@@ -1,4 +1,4 @@
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 10:51:04）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 12:01:18）**
 
 <div align="center">
 	<div>
@@ -113,10 +113,10 @@
 ### 黑科技
 *翻译出错了? 试试 [英文版](readme_en.md#Mad%20science) 吧~*
 
-- [webtorrent](https://github.com/feross/webtorrent) - 可在 Node.js 和浏览器使用的流式 Torrent 客户端
-- [peerflix](https://github.com/mafintosh/peerflix) - 流式 Torrent 客户端
-- [dat](https://github.com/datproject/dat-node) - 数据集的实时复制和版本控制
-- [ipfs](https://github.com/ipfs/js-ipfs) - 分布式文件系统，用于将所有计算设备与同一文件系统连接起来
+- [webtorrent](https://github.com/feross/webtorrent) - **star:21520**可在 Node.js 和浏览器使用的流式 Torrent 客户端
+- [peerflix](https://github.com/mafintosh/peerflix) - **star:5382**流式 Torrent 客户端
+- [dat](https://github.com/datproject/dat-node) - **star:492**数据集的实时复制和版本控制
+- [ipfs](https://github.com/ipfs/js-ipfs) - **star:4291**分布式文件系统，用于将所有计算设备与同一文件系统连接起来
 - [stackgl](https://github.com/stackgl) - 基于 browserify 和 npm 的 WebGL 开放软件生态系统
 - [peerwiki](https://github.com/mafintosh/peerwiki) - 建立在在 BitTorrent 上的维基百科
 - [peercast](https://github.com/mafintosh/peercast) - 将种子视频流式传输到 Chromecast
