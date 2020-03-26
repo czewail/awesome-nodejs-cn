@@ -1,5 +1,9 @@
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 12:11:42）**
 
+[Awesome]: media/icons/awesome.svg "star > 2000"
+[Green]: media/icons/Green.svg "最近一周有更新"
+[Yellow]: media/icons/Yellow.svg "最近一年没有更新"
+[Archived]: media/icons/archived.svg "项目已归档"
+      
 <div align="center">
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
@@ -42,6 +46,18 @@
 	<br>
 </div>
 
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 16:58:09）**
+
+**小图标说明** :
+
+
+小图标 | 说明  
+:-:|-
+![awesome][Awesome] | star > 2000
+![最近一个周有更新][Green] | 最近一周有更新。可以基本判断当前库处于积极维护状态。
+![最近一年未更新][Yellow] | 最近一年没有更新。反应了此库的维护积极性不高，使用时需谨慎。
+![归档项目][Archived] | 此项目已归档，不再更新，使用时需谨慎。
+              
 ## 内容
 
 - [包](#%E5%8C%85)
