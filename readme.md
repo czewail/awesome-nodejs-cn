@@ -46,7 +46,7 @@
 	<br>
 </div>
 
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 17:50:23）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 17:55:44）**
 
 **小图标说明** :
 
@@ -146,7 +146,7 @@
 - [Brain.js](https://github.com/BrainJS/brain.js) - **star:10844** 机器学习框架 ![star > 2000][Awesome] 
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - **star:6469** 图论(又称网络)建模与分析 ![star > 2000][Awesome] 
 - [Kadence](https://gitlab.com/deadcanaries/kadence) - Kademlia 分布式哈希表
-- [seedshot](https://github.com/twobucks/seedshot) - **star:178** 从浏览器共享临时 P2P 截图 ![项目已归档][项目已归档] 
+- [seedshot](https://github.com/twobucks/seedshot) - **star:178** 从浏览器共享临时 P2P 截图 ![项目已归档][Archived] 
 - [js-git](https://github.com/creationix/js-git) - **star:3633** Git的 JavaScript 实现 ![star > 2000][Awesome] 
 - [skale](https://github.com/skale-me/skale-engine) - **star:372** 高性能分布式数据处理引擎
 - [xlsx](https://github.com/sheetjs/js-xlsx) - **star:20300** 纯 js 实现的 Excel 电子表格读写器 ![star > 2000][Awesome] 
@@ -332,7 +332,7 @@
 - [gulp](https://github.com/gulpjs/gulp) - **star:31672** 流式和快速构建系统，更喜欢代码而不是配置 ![star > 2000][Awesome] 
 - [Broccoli](https://github.com/broccolijs/broccoli) - **star:3282** 快速、可靠的资源管道，支持固定时间的重新构建和紧凑的构建定义 ![star > 2000][Awesome] 
 - [Brunch](https://github.com/brunch/brunch) - **star:6664** 前端web应用程序构建工具，具有简单的声明性配置、快速增量编译和自定义工作流 ![star > 2000][Awesome] 
-- [Start](https://github.com/deepsweet/start) - **star:482** 带有共享预置的功能任务运行器 ![项目已归档][项目已归档] 
+- [Start](https://github.com/deepsweet/start) - **star:482** 带有共享预置的功能任务运行器 ![项目已归档][Archived] 
 - [ygor](https://github.com/shannonmoeller/ygor) - **star:69** 当“npm运行”是不够的，其他的都太多的时候，有前途的任务运行器
 - [FuseBox](https://github.com/fuse-box/fuse-box) - **star:3955** 快速构建系统，结合了webpack、JSPM和SystemJS的强大功能，并提供一流的TypeScript支持 ![star > 2000][Awesome] 
 - [pkg](https://github.com/zeit/pkg) - **star:15492** 将Node.js项目打包成可执行文件 ![star > 2000][Awesome] 
@@ -563,7 +563,7 @@
 - [parse-json](https://github.com/sindresorhus/parse-json) - **star:174** 解析带有更多有用错误的JSON
 - [URI.js](https://github.com/medialize/URI.js) - **star:5919** URL突变 ![star > 2000][Awesome] 
 - [PostCSS](https://github.com/postcss/postcss) - **star:22335** CSS解析器/ stringifier ![star > 2000][Awesome] 
-- [JSONStream](https://github.com/dominictarr/JSONStream) - **star:1716** 流JSON解析函数,把 ![项目已归档][项目已归档] 
+- [JSONStream](https://github.com/dominictarr/JSONStream) - **star:1716** 流JSON解析函数,把 ![项目已归档][Archived] 
 - [neat-csv](https://github.com/sindresorhus/neat-csv) - **star:157** 快CSV解析器上面的回调接口
 - [csv-parser](https://github.com/mafintosh/csv-parser) - **star:786** 流CSV解析器，旨在比其他人更快
 - [PEG.js](https://github.com/pegjs/pegjs) - **star:3596** 简单的解析器生成器，生成具有出色错误报告的快速解析器 ![star > 2000][Awesome] 
@@ -623,7 +623,7 @@
 - ODM / ORM
 - [Sequelize](https://github.com/sequelize/sequelize) - **star:21410** Multi-dialect ORM支持PostgreSQL, SQLite, MySQL ![star > 2000][Awesome] 
 - [Bookshelf](https://github.com/bookshelf/bookshelf) - **star:5824** ORM用于PostgreSQL、MySQL和SQLite3，风格为Backbone.js ![star > 2000][Awesome] 
-- [Massive](https://github.com/robconery/massive-js) - **star:2547** PostgreSQL数据访问工具 ![star > 2000][Awesome]  ![项目已归档][项目已归档] 
+- [Massive](https://github.com/robconery/massive-js) - **star:2547** PostgreSQL数据访问工具 ![star > 2000][Awesome]  ![项目已归档][Archived] 
 - [Mongoose](https://github.com/Automattic/mongoose) - **star:20445** 优雅的MongoDB对象建模 ![star > 2000][Awesome] 
 - [Waterline](https://github.com/balderdashy/waterline) - **star:5158** 与数据存储无关的工具，极大地简化了与一个或多个数据库的交互 ![star > 2000][Awesome] 
 - [OpenRecord](https://github.com/PhilWaldmann/openrecord) - **star:447** ORM用于PostgreSQL、MySQL、SQLite3和RESTful数据存储ActiveRecord相似
@@ -769,7 +769,7 @@
 
 - [Acorn](https://github.com/ternjs/acorn) - **star:5828** 小巧、快速的JavaScript解析器 ![star > 2000][Awesome] 
 - [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) - Babel中使用的JavaScript解析器
-- [cherow](https://github.com/cherow/cherow) - **star:1546** 专注于性能和稳定性的JavaScript解析器 ![项目已归档][项目已归档] 
+- [cherow](https://github.com/cherow/cherow) - **star:1546** 专注于性能和稳定性的JavaScript解析器 ![项目已归档][Archived] 
 
 ### 静态网站生成器
 *翻译出错了? 试试 [英文版](readme_en.md#Static%20site%20generators) 吧~*
