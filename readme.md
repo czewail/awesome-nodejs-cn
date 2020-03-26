@@ -46,7 +46,9 @@
 	<br>
 </div>
 
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 18:03:17）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 18:08:22）**
+
+顺便推荐一个 Go 的中文列表 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn/)
 
 **小图标说明** :
 
