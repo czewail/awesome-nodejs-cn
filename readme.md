@@ -46,7 +46,7 @@
 	<br>
 </div>
 
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-27 07:05:31）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-28 07:05:10）**
 
 顺便推荐一个 Go 的中文列表 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn/)
 
@@ -209,7 +209,7 @@
 - [lessmd](https://github.com/linuxenko/lessmd) - **star:115** 终端使用的 Markdown
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - **star:2511** 找出哪些依赖在拖慢速度 ![star > 2000][Awesome] 
 - [localtunnel](https://github.com/localtunnel/localtunnel) - **star:9663** 向外界公开本地主机 ![star > 2000][Awesome] 
-- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - **star:1768** 通过 SVG 共享终端会话 ![最近一周有更新][Green] 
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - **star:1768** 通过 SVG 共享终端会话
 - [gtop](https://github.com/aksakalli/gtop) - **star:8075** 终端系统监控仪表板 ![star > 2000][Awesome] 
 - [themer](https://github.com/mjswensen/themer) - **star:2336** 为编辑器、终端、墙纸、Slack等生成主题 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - **star:4476** 一款生成代码展示图片的终端工具 ![star > 2000][Awesome] 
@@ -288,7 +288,7 @@
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - **star:247** 简单的 stdin
 - [log-update](https://github.com/sindresorhus/log-update) - **star:750** 通过覆盖终端中的前一个输出来记录日志用于绘制进度条、动画等
 - [Ink](https://github.com/vadimdemedes/ink) - **star:12956** 对交互式命令行应用程序作出反应 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
-- [listr](https://github.com/samverschueren/listr) - **star:2437** 终端任务列表 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [listr](https://github.com/samverschueren/listr) - **star:2437** 终端任务列表 ![star > 2000][Awesome] 
 - [conf](https://github.com/sindresorhus/conf) - **star:547** 简单的配置处理应用程序或模块
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - **star:296** 用于操作终端的ANSI转义码
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - **star:506** 不同日志级别的彩色符号
@@ -358,7 +358,7 @@
 - [nunjucks](https://github.com/mozilla/nunjucks) - **star:6570** 带有继承、异步控制等功能的模板引擎(受jinja2的启发) ![star > 2000][Awesome] 
 - [handlebars.js](https://github.com/wycats/handlebars.js) - **star:15204** Superset of Mustache 模板的超集，添加了强大的功能，如帮助程序和更高级的块 ![star > 2000][Awesome] 
 - [EJS](https://github.com/mde/ejs) - **star:4276** 简单的未绑定模板语言 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
-- [Pug](https://github.com/pugjs/pug) - **star:19102** 高性能模板引擎深受Haml的影响 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [Pug](https://github.com/pugjs/pug) - **star:19102** 高性能模板引擎深受Haml的影响 ![star > 2000][Awesome] 
 
 ### Web 框架
 *翻译出错了? 试试 [英文版](readme_en.md#Web%20frameworks) 吧~*
@@ -477,7 +477,7 @@
 ### 图像
 *翻译出错了? 试试 [英文版](readme_en.md#Image) 吧~*
 
-- [sharp](https://github.com/lovell/sharp) - **star:15990** 用于调整JPEG、PNG、WebP和TIFF图像大小的最快模块 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [sharp](https://github.com/lovell/sharp) - **star:15990** 用于调整JPEG、PNG、WebP和TIFF图像大小的最快模块 ![star > 2000][Awesome] 
 - [image-type](https://github.com/sindresorhus/image-type) - **star:209** 检测缓冲区/ uint8数组的图像类型
 - [gm](https://github.com/aheckmann/gm) - **star:6043** GraphicsMagick和ImageMagick包装器 ![star > 2000][Awesome] 
 - [lwip](https://github.com/EyalAr/lwip) - **star:2251** 轻量级图像处理器，不需要ImageMagick ![star > 2000][Awesome]  ![最近一年没有更新][Yellow] 
@@ -548,7 +548,7 @@
 ### 数据验证
 *翻译出错了? 试试 [英文版](readme_en.md#Data%20validation) 吧~*
 
-- [joi](https://github.com/hapijs/joi) - **star:14439** 对象模式描述语言和JavaScript对象的验证器 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [joi](https://github.com/hapijs/joi) - **star:14439** 对象模式描述语言和JavaScript对象的验证器 ![star > 2000][Awesome] 
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - **star:902** 使用代码生成的JSON模式验证器非常快
 - [property-validator](https://github.com/nettofarah/property-validator) - **star:149** 方便快捷的属性验证
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - **star:464** JSON API的清理和验证
@@ -557,7 +557,7 @@
 ### 解析
 *翻译出错了? 试试 [英文版](readme_en.md#Parsing) 吧~*
 
-- [remark](https://github.com/wooorm/remark) - **star:2833** 插件驱动的降价处理器 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [remark](https://github.com/wooorm/remark) - **star:2833** 插件驱动的降价处理器 ![star > 2000][Awesome] 
 - [markdown-it](https://github.com/markdown-it/markdown-it) - **star:9122** Markdown解析器具有100%的公共标记支持、扩展和语法插件 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [parse5](https://github.com/inikulin/parse5) - **star:2338** 快速功能齐全的符合规范的HTML解析器 ![star > 2000][Awesome] 
 - [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - **star:449** 从JSON中删除注释
@@ -617,7 +617,7 @@
 - [PostgreSQL](https://github.com/brianc/node-postgres) - **star:8283** PostgreSQL客户机纯JavaScript和本地libpq绑定 ![star > 2000][Awesome] 
 - [Redis](https://github.com/luin/ioredis) - **star:7327** 复述,客户机 ![star > 2000][Awesome] 
 - [LevelUP](https://github.com/Level/levelup) - **star:3703** LevelDB ![star > 2000][Awesome] 
-- [MySQL](https://github.com/mysqljs/mysql) - **star:15221** MySQL客户端 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [MySQL](https://github.com/mysqljs/mysql) - **star:15221** MySQL客户端 ![star > 2000][Awesome] 
 - [couchdb-nano](https://github.com/apache/couchdb-nano) - **star:363** CouchDB客户机
 - [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - **star:164** 喷管和钟客户机 ![最近一周有更新][Green] 
 - [Couchbase](https://github.com/couchbase/couchnode) - **star:424** 他的客户 ![最近一周有更新][Green] 
@@ -629,7 +629,7 @@
 - [Mongoose](https://github.com/Automattic/mongoose) - **star:20445** 优雅的MongoDB对象建模 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [Waterline](https://github.com/balderdashy/waterline) - **star:5158** 与数据存储无关的工具，极大地简化了与一个或多个数据库的交互 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [OpenRecord](https://github.com/PhilWaldmann/openrecord) - **star:447** ORM用于PostgreSQL、MySQL、SQLite3和RESTful数据存储ActiveRecord相似
-- [pg-promise](https://github.com/vitaly-t/pg-promise) - **star:2557** 使用promise的PostgreSQL本地SQL框架 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [pg-promise](https://github.com/vitaly-t/pg-promise) - **star:2557** 使用promise的PostgreSQL本地SQL框架 ![star > 2000][Awesome] 
 - [slonik](https://github.com/gajus/slonik) - **star:1346** 具有严格类型、详细日志记录和断言的PostgreSQL客户机 ![最近一周有更新][Green] 
 - [Objection.js](https://github.com/Vincit/objection.js) - **star:4987** 轻量级ORM构建于SQL查询生成器Knex之上 ![star > 2000][Awesome] 
 - [TypeORM](https://github.com/typeorm/typeorm) - **star:18123** ORM用于PostgreSQL、MariaDB、MySQL、SQLite等 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
@@ -651,7 +651,7 @@
 - [AVA](https://github.com/avajs/ava) - **star:17708** 未来的测试运行器 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [Mocha](https://github.com/mochajs/mocha) - **star:19129** 功能丰富的测试框架，使异步测试简单而有趣 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [nyc](https://github.com/bcoe/nyc) - **star:4064** 代码覆盖工具建立在伊斯坦布尔，与子进程一起工作 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
-- [tap](https://github.com/isaacs/node-tap) - **star:1564** 开发测试框架 ![最近一周有更新][Green] 
+- [tap](https://github.com/isaacs/node-tap) - **star:1564** 开发测试框架
 - [tape](https://github.com/substack/tape) - **star:5264** TAP-producing测试工具 ![star > 2000][Awesome] 
 - [power-assert](https://github.com/power-assert-js/power-assert) - **star:2473** 通过标准断言接口提供描述性断言消息 ![star > 2000][Awesome] 
 - [Mochify](https://github.com/mantoni/mochify.js) - **star:335** TDD与Browserify, Mocha, PhantomJS和WebDriver
@@ -714,7 +714,7 @@
 ### 邮件
 *翻译出错了? 试试 [英文版](readme_en.md#Email) 吧~*
 
-- [Nodemailer](https://github.com/andris9/Nodemailer) - **star:12324** 处理电子邮件的最快方式 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [Nodemailer](https://github.com/andris9/Nodemailer) - **star:12324** 处理电子邮件的最快方式 ![star > 2000][Awesome] 
 - [emailjs](https://github.com/eleith/emailjs) - **star:1795** 发送带有附件的文本/HTML电子邮件到任何SMTP服务器
 - [email-templates](https://github.com/niftylettuce/email-templates) - **star:2735** 创建、预览和发送自定义电子邮件模板 ![star > 2000][Awesome] 
 - [MJML](https://github.com/mjmlio/mjml) - **star:10237** 标记语言，旨在减少创建响应电子邮件的痛苦 ![star > 2000][Awesome] 
@@ -745,7 +745,7 @@
 *翻译出错了? 试试 [英文版](readme_en.md#Natural%20language%20processing) 吧~*
 
 - [retext](https://github.com/wooorm/retext) - **star:1875** 一个可扩展的自然语言系统
-- [franc](https://github.com/wooorm/franc) - **star:3153** 检测文本的语言 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [franc](https://github.com/wooorm/franc) - **star:3153** 检测文本的语言 ![star > 2000][Awesome] 
 - [leven](https://github.com/sindresorhus/leven) - **star:492** 使用Levenshtein距离算法测量两个字符串之间的差异
 - [natural](https://github.com/NaturalNode/natural) - **star:9094** 自然语言工具 ![star > 2000][Awesome] 
 - [nlp.js](https://github.com/axa-group/nlp.js) - **star:3540** 构建机器人，具有实体提取、情感分析、自动语言识别等功能 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
