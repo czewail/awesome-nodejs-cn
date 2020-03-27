@@ -46,7 +46,7 @@
 	<br>
 </div>
 
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-26 18:08:22）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-03-27 07:05:31）**
 
 顺便推荐一个 Go 的中文列表 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn/)
 
@@ -401,7 +401,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) - **star:3665** 递归删除文件，如' rm -rf ' ![star > 2000][Awesome] 
 - [make-dir](https://github.com/sindresorhus/make-dir) - **star:401** 递归地创建像' mkdir -p '这样的目录
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - **star:945** 以各种改进替代' fs '模块
-- [chokidar](https://github.com/paulmillr/chokidar) - **star:6399** 文件系统监视程序，它稳定来自' fs的事件看”和“fs以及在macOS上使用本地的“fsevents” ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [chokidar](https://github.com/paulmillr/chokidar) - **star:6399** 文件系统监视程序，它稳定来自' fs的事件看”和“fs以及在macOS上使用本地的“fsevents” ![star > 2000][Awesome] 
 - [find-up](https://github.com/sindresorhus/find-up) - **star:276** 通过遍历父目录找到一个文件
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) - **star:107** 进程间和机器间的锁文件实用程序
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - **star:167** 读取和解析JSON文件
@@ -490,7 +490,7 @@
 *翻译出错了? 试试 [英文版](readme_en.md#Text) 吧~*
 
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - **star:2308** 转换字符编码 ![star > 2000][Awesome] 
-- [string-length](https://github.com/sindresorhus/string-length) - **star:80** 通过正确计算星体符号和忽略ansi转义码来获得字符串的实际长度 ![最近一周有更新][Green] 
+- [string-length](https://github.com/sindresorhus/string-length) - **star:80** 通过正确计算星体符号和忽略ansi转义码来获得字符串的实际长度
 - [camelcase](https://github.com/sindresorhus/camelcase) - **star:405** 将以破折号/点/下划线/空格分隔的字符串转换为camelCase: foo-bar→fooBar
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - **star:358** 转义RegExp特殊字符
 - [execall](https://github.com/sindresorhus/execall) - **star:79** 在一个字符串中查找多个RegExp匹配项
@@ -596,7 +596,7 @@
 
 - [yazl](https://github.com/thejoshwolfe/yazl) - **star:234** 邮政编码
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - **star:476** 解压缩
-- [Archiver](https://github.com/archiverjs/node-archiver) - **star:1834** 流接口的存档生成，支持ZIP和TAR ![最近一周有更新][Green] 
+- [Archiver](https://github.com/archiverjs/node-archiver) - **star:1834** 流接口的存档生成，支持ZIP和TAR
 - [pako](https://github.com/nodeca/pako) - **star:2795** 高速zlib端口到纯js(放气，充气，gzip) ![star > 2000][Awesome] 
 - [tar-stream](https://github.com/mafintosh/tar-stream) - **star:278** 流tar解析器和生成器也看到(tar-fs) (https://github.com/mafintosh/tar-fs)
 - [decompress](https://github.com/kevva/decompress) - **star:286** 解压模块，支持“tar”、“tar”gz '和' zip '文件开箱
@@ -687,7 +687,7 @@
 ### 基准测试
 *翻译出错了? 试试 [英文版](readme_en.md#Benchmarking) 吧~*
 
-- [Benchmark.js](https://github.com/bestiejs/benchmark.js) - **star:4476** 基准库，支持高分辨率定时器，并返回统计上显著的结果 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [Benchmark.js](https://github.com/bestiejs/benchmark.js) - **star:4476** 基准库，支持高分辨率定时器，并返回统计上显著的结果 ![star > 2000][Awesome] 
 - [matcha](https://github.com/logicalparadox/matcha) - **star:521** 基准测试的简单方法
 
 ### 代码压缩
@@ -724,7 +724,7 @@
 
 - [bull](https://github.com/OptimalBits/bull) - **star:7950** 持久作业和消息队列 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [agenda](https://github.com/rschmukler/agenda) - **star:6362** MongoDB-backed工作调度 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
-- [idoit](https://github.com/nodeca/idoit) - **star:48** 具有高级作业控制的redis支持的作业队列引擎 ![最近一周有更新][Green] 
+- [idoit](https://github.com/nodeca/idoit) - **star:48** 具有高级作业控制的redis支持的作业队列引擎
 - [node-resque](https://github.com/taskrabbit/node-resque) - **star:812** Redis-backed工作队列 ![最近一周有更新][Green] 
 - [rsmq](https://github.com/smrchy/rsmq) - **star:1258** Redis-backed消息队列
 - [bee-queue](https://github.com/bee-queue/bee-queue) - **star:1785** 高性能redis支持的作业队列 ![最近一周有更新][Green] 
@@ -737,7 +737,7 @@
 
 - [n](https://github.com/tj/n) - **star:12874** Node.js 版本管理 ![star > 2000][Awesome] 
 - [nave](https://github.com/isaacs/nave) - **star:1406** Node.js 的虚拟环境
-- [nodeenv](https://github.com/ekalinin/nodeenv) - **star:1178** js虚拟环境兼容Python的 virtualenv ![最近一周有更新][Green] 
+- [nodeenv](https://github.com/ekalinin/nodeenv) - **star:1178** js虚拟环境兼容Python的 virtualenv
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - **star:11986** Windows 版本管理 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [nodenv](https://github.com/nodenv/nodenv) - **star:1160** 类似于Ruby的rbenv的版本管理器它支持自动版本切换
 
@@ -843,13 +843,13 @@
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - **star:888** 使节流容易的速率限制器 ![最近一周有更新][Green] 
 - [ow](https://github.com/sindresorhus/ow) - **star:2891** 用于人的函数参数验证 ![star > 2000][Awesome] 
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - **star:2141** 使用本机线程实现轻量级Web工作者API ![star > 2000][Awesome]  ![最近一年没有更新][Yellow] 
-- [clipboardy](https://github.com/sindresorhus/clipboardy) - **star:937** 访问系统剪贴板(复制/粘贴) ![最近一周有更新][Green] 
+- [clipboardy](https://github.com/sindresorhus/clipboardy) - **star:937** 访问系统剪贴板(复制/粘贴)
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - **star:757** 使从二进制文件发布和安装Node.js c++插件变得容易
 - [opencv](https://github.com/peterbraden/node-opencv) - **star:3940** 绑定OpenCV事实上的计算机视觉库 ![star > 2000][Awesome] 
 - [dotenv](https://github.com/motdotla/dotenv) - **star:11021** 从.env文件中加载环境变量 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - **star:35** 从远程git repo获取标记
 - [semver](https://github.com/npm/node-semver) - **star:3176** 语义版本解析器 ![star > 2000][Awesome] 
-- [Faker.js](https://github.com/Marak/Faker.js) - **star:22908** 生成大量的假数据 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [Faker.js](https://github.com/Marak/Faker.js) - **star:22908** 生成大量的假数据 ![star > 2000][Awesome] 
 - [nodegit](https://github.com/nodegit/nodegit) - **star:4454** 到Git的本机绑定 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [json-strictify](https://github.com/pigulla/json-strictify) - **star:9** 安全地将值序列化为JSON，而不会丢失数据或进入无限循环 ![最近一周有更新][Green] 
 - [resolve-from](https://github.com/sindresorhus/resolve-from) - **star:90** 解析模块的路径，比如“require.resolve()”，但要从给定的路径解析
