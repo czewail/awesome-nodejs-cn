@@ -3,39 +3,17 @@
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
 	</div>
 	<br>
-	<hr>
-	<p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://github.com/botpress/botpress">
-			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="180" alt="Botpress">
-		</a>
-		<br>
-		<sub><b>Botpress is an open-source conversational assistant creation platform.</b></sub>
-		<br>
-		<sub>They <a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">welcome contributions</a> from anyone, whether you're into machine learning,<br>want to get started in open-source, or just have an improvement idea.</sub>
-		<br>
-		<br>
-		<br>
-		<a href="https://segment.com">
-			<img src="media/segment-logo.svg" width="180" alt="Segment">
-		</a>
-		<br>
-		<sup>
-			Save time setting up analytics with Segment. <a href="https://segment.com/jobs">We're hiring!</a>
-		</sup>
-	</p>
-	<hr>
-	<br>
-	<br>
 	<br>
 	<br>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
-		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	</p>
+	<br>
+	<p>
+		<a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a> is an open-source, cross-platform, JavaScript runtime for writing servers and command-line tools.
 	</p>
 	<br>
 </div>
@@ -125,6 +103,7 @@
 - [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 - [YodaOS](https://github.com/yodaos-project/yodaos) - AI operating system.
 - [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+- [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - [Kadence](https://gitlab.com/deadcanaries/kadence) - Kademlia distributed hash table.
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
@@ -468,6 +447,7 @@
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 - [i18next](https://github.com/i18next/i18next) - Internationalization framework.
 - [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+- [StegCloak](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ### Number
 
@@ -625,6 +605,7 @@
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome.
 - [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 
 ### Security
 
@@ -728,6 +709,7 @@
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 - [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 - [Tipe](https://github.com/tipeio/tipe) - Developer-first content management system with GraphQL and REST API from a schema file.
+- [Factor](https://github.com/fiction-com/factor) - Vue.js dashboard framework and headless CMS.
 
 ### Forum
 
@@ -884,7 +866,6 @@
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
-- [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
 - [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
