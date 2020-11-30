@@ -9,31 +9,19 @@
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
 	</div>
 	<br>
-	<hr>
 	<p>
+		<p>
+			<sup>
+				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
+			</sup>
+		</p>
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://github.com/botpress/botpress">
-			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="180" alt="Botpress">
+		<a href="https://standardresume.co">
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
 		</a>
-		<br>
-		<sub><b>Botpress is an open-source conversational assistant creation platform.</b></sub>
-		<br>
-		<sub>They <a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">welcome contributions</a> from anyone, whether you're into machine learning,<br>want to get started in open-source, or just have an improvement idea.</sub>
-		<br>
-		<br>
-		<br>
-		<a href="https://segment.com">
-			<img src="media/segment-logo.svg" width="180" alt="Segment">
-		</a>
-		<br>
-		<sup>
-			Save time setting up analytics with Segment. <a href="https://segment.com/jobs">We're hiring!</a>
-		</sup>
 	</p>
-	<hr>
-	<br>
 	<br>
 	<br>
 	<br>
@@ -41,12 +29,16 @@
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
-		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	</p>
+	<br>
+	<p>
+		<a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a> is an open-source, cross-platform, JavaScript runtime for writing servers and command-line tools.
 	</p>
 	<br>
 </div>
 
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-06-22 08:04:06）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2020-11-30 08:07:58）**
 
 顺便推荐一个 Go 的中文列表 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn/)
 
@@ -131,263 +123,18 @@
 ### 黑科技
 *翻译出错了? 试试 [英文版](readme_en.md#Mad%20science) 吧~*
 
-- [webtorrent](https://github.com/feross/webtorrent) - **star:22065** 可在 Node.js 和浏览器使用的流式 Torrent 客户端 ![star > 2000][Awesome] 
-- [peerflix](https://github.com/mafintosh/peerflix) - **star:5439** 流式 Torrent 客户端 ![star > 2000][Awesome] 
+- [webtorrent](https://github.com/feross/webtorrent) - **star:22942** 可在 Node.js 和浏览器使用的流式 Torrent 客户端 ![star > 2000][Awesome] 
+- [peerflix](https://github.com/mafintosh/peerflix) - **star:5537** 流式 Torrent 客户端 ![star > 2000][Awesome] 
 - [dat](https://github.com/datproject/dat-node) - **star:498** 数据集的实时复制和版本控制
-- [ipfs](https://github.com/ipfs/js-ipfs) - **star:4517** 分布式文件系统，用于将所有计算设备与同一文件系统连接起来 ![star > 2000][Awesome] 
+- [ipfs](https://github.com/ipfs/js-ipfs) - **star:4825** 分布式文件系统，用于将所有计算设备与同一文件系统连接起来 ![star > 2000][Awesome] 
 - [stackgl](https://github.com/stackgl) - 基于 browserify 和 npm 的 WebGL 开放软件生态系统
-- [peerwiki](https://github.com/mafintosh/peerwiki) - **star:297** 建立在在 BitTorrent 上的维基百科
-- [peercast](https://github.com/mafintosh/peercast) - **star:453** 将种子视频流式传输到 Chromecast
-- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - **star:3883** 干净、可读比特币库 ![star > 2000][Awesome] 
-- [Bitcore](https://github.com/bitpay/bitcore) - **star:3664** 纯净、强大的比特币库 ![star > 2000][Awesome] 
-- [PDFKit](https://github.com/devongovett/pdfkit) - **star:6241** PDF 生成库 ![star > 2000][Awesome] 
-- [turf](https://github.com/Turfjs/turf) - **star:5320** 模块化地理空间处理和分析引擎 ![star > 2000][Awesome] 
-- [webcat](https://github.com/mafintosh/webcat) - **star:405** 使用 WebRTC 跨 web 的 p2p 管道，它使用 GitHub 私有/公共密钥进行身份验证
-- [NodeOS](https://github.com/NodeOS/NodeOS) - **star:6223** 第一个由 npm 驱动的操作系统 ![star > 2000][Awesome] 
-- [YodaOS](https://github.com/yodaos-project/yodaos) - **star:1022** 人工智能操作系统
-- [Brain.js](https://github.com/BrainJS/brain.js) - **star:11085** 机器学习框架 ![star > 2000][Awesome] 
-- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - **star:6729** 图论(又称网络)建模与分析 ![star > 2000][Awesome] 
-- [Kadence](https://gitlab.com/deadcanaries/kadence) - Kademlia 分布式哈希表
-- [seedshot](https://github.com/twobucks/seedshot) - **star:179** 从浏览器共享临时 P2P 截图 ![项目已归档][Archived] 
-- [js-git](https://github.com/creationix/js-git) - **star:3653** Git的 JavaScript 实现 ![star > 2000][Awesome] 
-- [skale](https://github.com/skale-me/skale-engine) - **star:377** 高性能分布式数据处理引擎
-- [xlsx](https://github.com/sheetjs/js-xlsx) - **star:21519** 纯 js 实现的 Excel 电子表格读写器 ![star > 2000][Awesome] 
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - **star:4819** 纯 JavaScript 实现的 Git ![star > 2000][Awesome] 
-
-### 命令行程序
-*翻译出错了? 试试 [英文版](readme_en.md#Command-line%20apps) 吧~*
-
-- [np](https://github.com/sindresorhus/np) - **star:5290** 更好的 'npm publish' ![star > 2000][Awesome] 
-- [npm-name](https://github.com/sindresorhus/npm-name) - **star:122** 检查 npm 上的包名是否可用
-- [gh-home](https://github.com/sindresorhus/gh-home) - **star:156** 在当前目录中打开 GitHub 的仓库页面
-- [npm-home](https://github.com/sindresorhus/npm-home) - **star:168** 打开 npm 包的页面
-- [trash](https://github.com/sindresorhus/trash) - **star:1994** 更安全的 rm 命令替代品
-- [speed-test](https://github.com/sindresorhus/speed-test) - **star:3350** 测试互联网连接速度和 ping ![star > 2000][Awesome] 
-- [emoj](https://github.com/sindresorhus/emoj) - **star:1993** 从命令行文本中找到相关的表情符号
-- [pageres](https://github.com/sindresorhus/pageres) - **star:9019** 捕获网站截图 ![star > 2000][Awesome] 
-- [cpy](https://github.com/sindresorhus/cpy) - **star:268** 复制文件
-- [vtop](https://github.com/MrRio/vtop) - **star:3582** 带图表的 top 命令 ![star > 2000][Awesome] 
-- [empty-trash](https://github.com/sindresorhus/empty-trash) - **star:101** 清理垃圾
-- [is-up](https://github.com/sindresorhus/is-up) - **star:331** 检查网站是否正常
-- [is-online](https://github.com/sindresorhus/is-online) - **star:836** 检查网络连接是否正常
-- [public-ip](https://github.com/sindresorhus/public-ip) - **star:575** 获取你的公共IP地址
-- [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - **star:357** 在终端上复制粘贴
-- [XO](https://github.com/xojs/xo) - **star:5129** 使用 Javascript happiness style 进行严格编码 ![star > 2000][Awesome] 
-- [Standard](https://github.com/feross/standard) - **star:23921** Javascript 标准风格 - 一种风格规范 ![star > 2000][Awesome] 
-- [ESLint](https://github.com/eslint/eslint) - **star:16643** JavaScript 的可插入 linting 实用程序 ![star > 2000][Awesome] 
-- [dev-time](https://github.com/samverschueren/dev-time-cli) - **star:168** 获取 GitHub 用户当前的本地时间
-- [David](https://github.com/alanshaw/david) - **star:923** 告诉你包的 npm 依赖项何时过期
-- [http-server](https://github.com/indexzero/http-server) - **star:9592** 简单的零配置 http 服务器命令行工具 ![star > 2000][Awesome] 
-- [Live Server](https://github.com/tapio/live-server) - **star:3216** 具有热重载功能的 HTTP-server ![star > 2000][Awesome] 
-- [bcat](https://github.com/kessler/node-bcat) - **star:300** 管道命令输出到 web 浏览器
-- [normit](https://github.com/pawurb/normit) - **star:209** 谷歌翻译与语音合成的终端工具
-- [fkill](https://github.com/sindresorhus/fkill-cli) - **star:6102** 跨平台的进程杀死工具 ![star > 2000][Awesome] 
-- [pjs](https://github.com/danielstjules/pjs) - **star:380** Pipeable JavaScript从终端快速筛选、映射和缩减
-- [license-checker](https://github.com/davglass/license-checker) - **star:1057** 检查应用程序依赖项的许可
-- [browser-run](https://github.com/juliangruber/browser-run) - **star:367** 在浏览器环境中轻松运行代码
-- [tmpin](https://github.com/sindresorhus/tmpin) - **star:111** 将stdin支持添加到任何接受文件输入的CLI应用程序
-- [wifi-password](https://github.com/kevva/wifi-password-cli) - **star:213** 获取当前wifi密码
-- [wallpaper](https://github.com/sindresorhus/wallpaper) - **star:699** 更换桌面壁纸
-- [brightness](https://github.com/kevva/brightness-cli) - **star:176** 改变屏幕亮度
-- [torrent](https://github.com/maxogden/torrent) - **star:577** 下载种子
-- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - **star:256** 关闭所有Chrome选项卡，以提高性能，减少电池使用，并节省内存
-- [alex](https://github.com/wooorm/alex) - **star:3562** 捕获不敏感、不体谅他人的编写 ![star > 2000][Awesome] 
-- [pen](https://github.com/noraesae/pen) - **star:308** 从喜爱的编辑器在浏览器中实时预览 Markdown
-- [subdownloader](https://github.com/beatfreaker/subdownloader) - **star:128** 电影和电视剧的字幕下载程序
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - **star:496** 切换 macOS 黑暗模式
-- [iponmap](https://github.com/nogizhopaboroda/iponmap) - **star:240** IP 定位程序
-- [Jsome](https://github.com/Javascipt/Jsome) - **star:170** 漂亮的打印json，带有可配置的颜色和缩进
-- [itunes-remote](https://github.com/mischah/itunes-remote) - **star:398** 可交互的方式控制 iTunes
-- [mobicon](https://github.com/samverschueren/mobicon-cli) - **star:80** 移动应用图标生成器
-- [mobisplash](https://github.com/samverschueren/mobisplash-cli) - **star:45** 移动应用程序启动屏幕生成器
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - **star:251** 相当不错的 git diff 到 HTML 的生成器
-- [Cash](https://github.com/dthree/cash) - **star:7695** 纯JavaScript中的跨平台Unix shell命令 ![star > 2000][Awesome] 
-- [trymodule](https://github.com/VictorBjelkholm/trymodule) - **star:1110** 在终端试用npm包
-- [jscpd](https://github.com/kucherenko/jscpd) - **star:1701** 源代码的复制/粘贴检测器
-- [atmo](https://github.com/Raathigesh/Atmo) - **star:794** 服务器端 api 模拟工具
-- [auto-install](https://github.com/siddharthkp/auto-install) - **star:1088** 在编写代码时自动安装依赖项
-- [lessmd](https://github.com/linuxenko/lessmd) - **star:115** 终端使用的 Markdown
-- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - **star:2536** 找出哪些依赖在拖慢速度 ![star > 2000][Awesome] 
-- [localtunnel](https://github.com/localtunnel/localtunnel) - **star:10063** 向外界公开本地主机 ![star > 2000][Awesome] 
-- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - **star:1921** 通过 SVG 共享终端会话
-- [gtop](https://github.com/aksakalli/gtop) - **star:8167** 终端系统监控仪表板 ![star > 2000][Awesome] 
-- [themer](https://github.com/mjswensen/themer) - **star:3582** 为编辑器、终端、墙纸、Slack等生成主题 ![star > 2000][Awesome] 
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - **star:4594** 一款生成代码展示图片的终端工具 ![star > 2000][Awesome] 
-- [cash-cli](https://github.com/xxczaki/cash-cli) - **star:144** 转换170种货币
-- [taskbook](https://github.com/klauscfhq/taskbook) - **star:7644** 命令行栖息地的任务、板子和注释 ![star > 2000][Awesome] 
-- [discharge](https://github.com/brandonweiss/discharge) - **star:453** 轻松地将静态站点部署到Amazon S3
-- [npkill](https://github.com/voidcosmos/npkill) - **star:3293** 轻松找到并删除旧的和沉重的node_modules文件夹 ![star > 2000][Awesome] 
-
-### 函数式编程
-*翻译出错了? 试试 [英文版](readme_en.md#Functional%20programming) 吧~*
-
-- [lodash](https://github.com/lodash/lodash) - **star:45298** 提供一致性、自定义、性能和附加功能的实用程序库一个更好更快的Underscore.js ![star > 2000][Awesome] 
-- [immutable](https://github.com/facebook/immutable-js) - **star:29862** 不可变数据集合 ![star > 2000][Awesome] 
-- [Ramda](https://github.com/ramda/ramda) - **star:19055** 实用工具库，侧重于灵活的功能组合，通过自动套用和反转参数顺序启用避免变异数据 ![star > 2000][Awesome] 
-- [Folktale](https://github.com/origamitower/folktale) - **star:1822** 用JavaScript编写通用函数式编程的库套件，允许编写优雅的模块化应用程序，减少bug，提高重用性
-- [Mout](https://github.com/mout/mout) - **star:1201** 实用工具库与其他现有解决方案最大的区别在于，您可以选择只加载您需要的模块/函数，而不需要额外的开销
-- [Bacon.js](https://github.com/baconjs/bacon.js) - **star:6243** 响应式函数编程 ![star > 2000][Awesome] 
-- [RxJS](https://github.com/reactivex/rxjs) - **star:22193** 用于转换、组合和查询各种数据的响应式函数编程库 ![star > 2000][Awesome] 
-- [Lazy.js](https://github.com/dtao/lazy.js) - **star:5911** 类似于 lodash/Underscore 的工具库，但具有延迟计算，这在许多情况下可以转化为优越的性能 ![star > 2000][Awesome] 
-- [Kefir.js](https://github.com/kefirjs/kefir) - **star:1676** 响应式，专注于高性能和低内存使用
-
-### HTTP
-*翻译出错了? 试试 [英文版](readme_en.md#HTTP) 吧~*
-
-- [got](https://github.com/sindresorhus/got) - **star:7735** 更好的内置“http”模块接口 ![star > 2000][Awesome] 
-- [gh-got](https://github.com/sindresorhus/gh-got) - **star:148** “got”与github api交互的简单封装
-- [axios](https://github.com/mzabriskie/axios) - **star:74464** 基于 Promise 的HTTP客户端(也适用于浏览器) ![star > 2000][Awesome] 
-- [wreck](https://github.com/hapijs/wreck) - **star:376** HTTP客户端工具
-- [download](https://github.com/kevva/download) - **star:986** 轻松下载和解压文件
-- [http-proxy](https://github.com/nodejitsu/node-http-proxy) - **star:11251** HTTP代理 ![star > 2000][Awesome] 
-- [superagent](https://github.com/visionmedia/superagent) - **star:15171** HTTP请求库 ![star > 2000][Awesome] 
-- [node-fetch](https://github.com/bitinn/node-fetch) - **star:5204** node.js 版的 `window.fetch` ![star > 2000][Awesome] 
-- [flashheart](https://github.com/bbc/flashheart) - **star:112** REST 客户端
-- [http-fake-backend](https://github.com/micromata/http-fake-backend) - **star:230** 通过可配置路由提供JSON文件或JavaScript对象的内容，构建一个伪后端
-- [cacheable-request](https://github.com/lukechilds/cacheable-request) - **star:200** 支持符合RFC的缓存的HTTP请求封装
-- [gotql](https://github.com/khaosdoctor/gotql) - **star:272** 构建于[got]之上(https://github.com/sindresorhus/got)的GraphQL请求库
-- [global-agent](https://github.com/gajus/global-agent) - **star:94** 可使用环境变量配置的全局HTTP/HTTPS代理代理。
-
-### 调试
-*翻译出错了? 试试 [英文版](readme_en.md#Debugging%20) 吧~*
-
-- [ndb](https://github.com/GoogleChromeLabs/ndb) - **star:10059** 通过chrome devtools改进了调试体验 ![star > 2000][Awesome] 
-- [ironNode](https://github.com/s-a/iron-node) - **star:2366** 开箱即用的js调试器，支持ES2015 ![star > 2000][Awesome] 
-- [node-inspector](https://github.com/node-inspector/node-inspector) - **star:12501** 基于Blink开发工具的调试器 ![star > 2000][Awesome] 
-- [debug](https://github.com/visionmedia/debug) - **star:8803** 微小的调试工具 ![star > 2000][Awesome] 
-- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) - **star:1138** js正在运行，但你不知道为什么?
-- [njsTrace](https://github.com/valyouw/njstrace) - **star:279** 测试并跟踪代码，查看所有函数调用、参数、返回值以及每个函数中花费的时间
-- [vstream](https://github.com/joyent/node-vstream) - **star:57** 用于检测管道流
-- [stackman](https://github.com/watson/stackman) - **star:222** 使用代码摘要和其他好东西增强错误堆栈跟踪
-- [locus](https://github.com/alidavut/locus) - **star:281** 在运行时启动一个可以访问所有变量的REPL
-- [0x](https://github.com/davidmarkclements/0x) - **star:1849** 火焰图分析
-- [ctrace](https://github.com/automation-stack/ctrace) - **star:109** 用于跟踪系统调用和信号，格式良好并且经过改进
-- [leakage](https://github.com/andywer/leakage) - **star:1451** 编写内存泄漏测试
-- [llnode](https://github.com/nodejs/llnode) - **star:850** 后期分析工具，允许检查对象，并从崩溃的Node.js进程中获取细节
-- [thetool](https://github.com/sfninja/thetool) - **star:157** 以Chrome DevTools的格式为应用程序捕获不同的CPU、内存和其他配置文件
-- [swagger-stats](https://github.com/slanatech/swagger-stats) - **star:455** 跟踪API调用并监视API性能、健康状况和使用指标
-- [NiM](https://github.com/june07/nim) - **star:157** 管理DevTools调试工作流程。
-
-### 日志
-*翻译出错了? 试试 [英文版](readme_en.md#Logging) 吧~*
-
-- [pino](https://github.com/pinojs/pino) - **star:5612** 非常快的日志工具，灵感来自Bunyan ![star > 2000][Awesome] 
-- [winston](https://github.com/winstonjs/winston) - **star:15576** 多通道异步日志库 ![star > 2000][Awesome] 
-- [console-log-level](https://github.com/watson/console-log-level) - **star:61** 最简单的日志程序，支持日志级别和自定义前缀
-- [storyboard](https://github.com/guigrpa/storyboard) - **star:621** 端到端的、分层的、实时的、丰富多彩的日志和故事
-- [signale](https://github.com/klauscfhq/signale) - **star:8132** 控制台记录器。 ![star > 2000][Awesome] 
-- [consola](https://github.com/nuxt/consola) - **star:2820** 控制台记录器。 ![star > 2000][Awesome] 
-
-### 命令行实用工具
-*翻译出错了? 试试 [英文版](readme_en.md#Command-line%20utilities) 吧~*
-
-- [chalk](https://github.com/chalk/chalk) - **star:14658** 终端字符串样式设置 ![star > 2000][Awesome] 
-- [meow](https://github.com/sindresorhus/meow) - **star:2211** CLI应用助手 ![star > 2000][Awesome] 
-- [yargs](https://github.com/yargs/yargs) - **star:7794** 自动生成优雅用户界面的命令行解析器 ![star > 2000][Awesome] 
-- [ora](https://github.com/sindresorhus/ora) - **star:6073** 优雅的终端 spinner ![star > 2000][Awesome] 
-- [get-stdin](https://github.com/sindresorhus/get-stdin) - **star:255** 简单的 stdin
-- [log-update](https://github.com/sindresorhus/log-update) - **star:793** 通过覆盖终端中的前一个输出来记录日志用于绘制进度条、动画等
-- [Ink](https://github.com/vadimdemedes/ink) - **star:13375** 对交互式命令行应用程序作出反应 ![star > 2000][Awesome] 
-- [listr](https://github.com/samverschueren/listr) - **star:2516** 终端任务列表 ![star > 2000][Awesome] 
-- [conf](https://github.com/sindresorhus/conf) - **star:581** 简单的配置处理应用程序或模块
-- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - **star:306** 用于操作终端的ANSI转义码
-- [log-symbols](https://github.com/sindresorhus/log-symbols) - **star:519** 不同日志级别的彩色符号
-- [figures](https://github.com/sindresorhus/figures) - **star:403** 带有Windows CMD回退的Unicode符号
-- [boxen](https://github.com/sindresorhus/boxen) - **star:750** 在终端中创建框
-- [terminal-link](https://github.com/sindresorhus/terminal-link) - **star:315** 在终端中创建可单击链接
-- [terminal-image](https://github.com/sindresorhus/terminal-image) - **star:684** 在终端显示图像
-- [string-width](https://github.com/sindresorhus/string-width) - **star:193** 获取字符串的可视宽度——显示它所需的列数
-- [cli-truncate](https://github.com/sindresorhus/cli-truncate) - **star:53** 在终端中将字符串截断到特定宽度
-- [first-run](https://github.com/sindresorhus/first-run) - **star:71** 检查这是否是第一次运行流程
-- [blessed](https://github.com/chjj/blessed) - **star:9285** Curses-like 库 ![star > 2000][Awesome] 
-- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - **star:12702** 交互式命令行提示符 ![star > 2000][Awesome] 
-- [yn](https://github.com/sindresorhus/yn) - **star:188** 解析yes/no 类似的值
-- [cli-table3](https://github.com/cli-table/cli-table3) - **star:167** 漂亮的unicode表
-- [drawille](https://github.com/madbence/node-drawille) - **star:876** 用unicode字符在终端上绘制
-- [update-notifier](https://github.com/yeoman/update-notifier) - **star:1423** 更新CLI应用程序的通知
-- [ascii-charts](https://github.com/jstrace/chart) - **star:224** 终端中的ASCII条形图
-- [progress](https://github.com/tj/node-progress) - **star:2431** 灵活的ascii进度条 ![star > 2000][Awesome] 
-- [insight](https://github.com/yeoman/insight) - **star:492** 帮助了解匿名向Google Analytics报告使用指标时如何使用您的工具
-- [cli-cursor](https://github.com/sindresorhus/cli-cursor) - **star:67** 切换CLI游标
-- [columnify](https://github.com/timoxley/columnify) - **star:376** 创建适合控制台输出的基于文本的列，支持单元格包装
-- [cli-columns](https://github.com/shannonmoeller/cli-columns) - **star:24** 列式unicode和ansi安全的文本列表
-- [cfonts](https://github.com/dominikwilkowski/cfonts) - **star:571** 性感的ASCII字体控制台
-- [multispinner](https://github.com/codekirei/node-multispinner) - **star:267** 多个，同时，单独控制的CLI spinners
-- [omelette](https://github.com/f/omelette) - **star:1116** shell自动完成帮助程序
-- [cross-env](https://github.com/kentcdodds/cross-env) - **star:4818** 设置跨平台的环境变量 ![star > 2000][Awesome] 
-- [shelljs](https://github.com/shelljs/shelljs) - **star:11142** 可移植的Unix shell命令 ![star > 2000][Awesome] 
-- [sudo-block](https://github.com/sindresorhus/sudo-block) - **star:79** 阻止用户使用根权限运行应用程序
-- [loud-rejection](https://github.com/sindresorhus/loud-rejection) - **star:264** 使用未处理的promise rejections错误代替默认错误
-- [sparkly](https://github.com/sindresorhus/sparkly) - **star:351** 生成波形图 “▁▂▃▅▂▇”
-- [Bit](https://github.com/teambit/bit) - **star:11190** 跨存储库创建、维护、查找和使用小模块和组件 ![star > 2000][Awesome] 
-- [gradient-string](https://github.com/bokub/gradient-string) - **star:423** 终端输出中漂亮的颜色渐变
-- [oclif](https://github.com/oclif/oclif) - **star:5009** 包含解析器、自动文档、测试和插件的CLI框架 ![star > 2000][Awesome] 
-- [term-size](https://github.com/sindresorhus/term-size) - **star:110** 可靠地获取终端窗口大小
-- [Cliffy](https://github.com/drew-y/cliffy) - **star:234** 交互式CLIs框架
-
-### 构建工具
-*翻译出错了? 试试 [英文版](readme_en.md#Build%20tools) 吧~*
-
-- [parcel](https://github.com/parcel-bundler/parcel) - **star:36013** 速度极快，零配置web应用程序打包工具 ![star > 2000][Awesome] 
-- [webpack](https://github.com/webpack/webpack) - **star:54654** 为浏览器打包模块和资源 ![star > 2000][Awesome] 
-- [rollup](https://github.com/rollup/rollup) - **star:18390** 下一代ES2015模块打包工具 ![star > 2000][Awesome] 
-- [gulp](https://github.com/gulpjs/gulp) - **star:31794** 流式和快速构建系统，更喜欢代码而不是配置 ![star > 2000][Awesome] 
-- [Broccoli](https://github.com/broccolijs/broccoli) - **star:3287** 快速、可靠的资源管道，支持固定时间的重新构建和紧凑的构建定义 ![star > 2000][Awesome] 
-- [Brunch](https://github.com/brunch/brunch) - **star:6687** 前端web应用程序构建工具，具有简单的声明性配置、快速增量编译和自定义工作流 ![star > 2000][Awesome] 
-- [Start](https://github.com/deepsweet/start) - **star:479** 带有共享预置的功能任务运行器 ![项目已归档][Archived] 
-- [ygor](https://github.com/shannonmoeller/ygor) - **star:70** 当“npm运行”是不够的，其他的都太多的时候，有前途的任务运行器
-- [FuseBox](https://github.com/fuse-box/fuse-box) - **star:3992** 快速构建系统，结合了webpack、JSPM和SystemJS的强大功能，并提供一流的TypeScript支持 ![star > 2000][Awesome] 
-- [pkg](https://github.com/zeit/pkg) - **star:16038** 将Node.js项目打包成可执行文件 ![star > 2000][Awesome] 
-
-### 硬件
-*翻译出错了? 试试 [英文版](readme_en.md#Hardware) 吧~*
-
-- [johnny-five](https://github.com/rwaldron/johnny-five) - **star:11627** 基于Firmata的Arduino框架 ![star > 2000][Awesome] 
-- [serialport](https://github.com/voodootikigod/node-serialport) - **star:4437** 访问串行端口进行读写 ![star > 2000][Awesome] 
-- [usb](https://github.com/nonolith/node-usb) - **star:945** USB接口库
-- [i2c-bus](https://github.com/fivdi/i2c-bus) - **star:233** I2C串行总线访问
-- [onoff](https://github.com/fivdi/onoff) - **star:958** GPIO访问和中断检测
-- [spi-device](https://github.com/fivdi/spi-device) - **star:82** SPI串行总线访问
-- [pigpio](https://github.com/fivdi/pigpio) - **star:653** 快速GPIO, PWM，伺服控制，状态变化通知，中断处理对树莓派
-- [gps](https://github.com/infusion/GPS.js) - **star:143** 用于处理GPS接收器的NMEA解析器
-
-### 模板
-*翻译出错了? 试试 [英文版](readme_en.md#Templating) 吧~*
-
-- [marko](https://github.com/marko-js/marko) - **star:9577** 基于html的模板引擎，它将模板编译到CommonJS模块，并支持流、异步呈现和自定义标记 ![star > 2000][Awesome] 
-- [nunjucks](https://github.com/mozilla/nunjucks) - **star:6749** 带有继承、异步控制等功能的模板引擎(受jinja2的启发) ![star > 2000][Awesome] 
-- [handlebars.js](https://github.com/wycats/handlebars.js) - **star:15382** Superset of Mustache 模板的超集，添加了强大的功能，如帮助程序和更高级的块 ![star > 2000][Awesome] 
-- [EJS](https://github.com/mde/ejs) - **star:4560** 简单的未绑定模板语言 ![star > 2000][Awesome] 
-- [Pug](https://github.com/pugjs/pug) - **star:19331** 高性能模板引擎深受Haml的影响 ![star > 2000][Awesome] 
-
-### Web 框架
-*翻译出错了? 试试 [英文版](readme_en.md#Web%20frameworks) 吧~*
-
-- [Hapi](https://github.com/hapijs/hapi) - **star:12472** 用于构建应用程序和服务的框架 ![star > 2000][Awesome] 
-- [Koa](https://github.com/koajs/koa) - **star:29434** Express背后的团队设计的框架，其目标是为web应用程序和api提供一个更小、更富表现力和更健壮的基础 ![star > 2000][Awesome] 
-- [Express](https://github.com/expressjs/express) - **star:49041** Web应用程序框架，为构建单页、多页和混合Web应用程序提供了一组健壮的特性 ![star > 2000][Awesome] 
-- [Feathers](https://github.com/feathersjs/feathers) - **star:12585** 基于Express精神构建的微服务框架 ![star > 2000][Awesome] 
-- [LoopBack](https://github.com/strongloop/loopback) - **star:13154** 用于创建REST api和轻松连接到后端数据源的强大框架 ![star > 2000][Awesome] 
-- [Meteor](https://github.com/meteor/meteor) - **star:41806** 一个超简单的、无处不在的数据库、在线数据、纯javascript web框架*(你可能会喜欢[awesome-meteor](https://github.com/Urigo/awesome-meteor))* ![star > 2000][Awesome] 
-- [Restify](https://github.com/restify/node-restify) - **star:9817** 使您能够构建正确的REST web服务 ![star > 2000][Awesome] 
-- [ThinkJS](https://github.com/thinkjs/thinkjs) - **star:5123** 框架与ES2015+支持，WebSockets, REST API ![star > 2000][Awesome] 
-- [ActionHero](https://github.com/actionhero/actionhero) - **star:2108** 为TCP套接字、WebSockets和HTTP客户机创建可重用和可伸缩api的框架 ![star > 2000][Awesome] 
-- [Next.js](https://github.com/zeit/next.js) - **star:49859** 服务器渲染的通用JavaScript web应用程序的最小化框架 ![star > 2000][Awesome] 
-- [Nuxt.js](https://github.com/nuxt/nuxt.js) - **star:27881** 服务器渲染的Vue.js应用程序的最小化框架 ![star > 2000][Awesome] 
-- [seneca](https://github.com/senecajs/seneca) - **star:3680** 编写微服务的工具包 ![star > 2000][Awesome] 
-- [AdonisJs](http://adonisjs.com) - 一个真正的Node.js MVC框架，建立在依赖注入和IoC容器的坚实基础上
-- [Hemera](https://github.com/hemerajs/hemera) - **star:743** 使用[NATS](https://nats.io)编写可靠且容错的微服务
-- [Micro](https://github.com/zeit/micro) - **star:9370** 带有异步方法的最小化微服务框架 ![star > 2000][Awesome] 
-- [Moleculer](https://moleculer.services) - 快速强大的微服务框架
-- [Fastify](https://github.com/fastify/fastify) - **star:14693** 高速、地开销的 Web 框架 ![star > 2000][Awesome] 
-- [Nest](https://github.com/nestjs/nest) - **star:28009** 用于构建高效且可伸缩的服务器端应用程序, 受 Angular 启发 ![star > 2000][Awesome] 
-- [Zeronode](https://github.com/sfast/zeronode) - **star:109** 可靠和容错的微服务的最小构建块
-- [TypeGraphQL](https://github.com/19majkel94/type-graphql) - **star:4641** 基于 TypeScript 使用类和装饰器创建 GraphQL api的现代框架 ![star > 2000][Awesome] 
-
-### 文档
-*翻译出错了? 试试 [英文版](readme_en.md#Documentation) 吧~*
-
-- [documentation.js](https://github.com/documentationjs/documentation) - **star:5094** 支持ES2015+和 flow 注释的 API 文档生成器 ![star > 2000][Awesome] 
-- [ESDoc](https://github.com/esdoc/esdoc) - **star:2591** 以ES2015为目标的文档生成器，附加测试代码并测量文档覆盖率 ![star > 2000][Awesome] 
-- [Docco](https://github.com/jashkenas/docco) - **star:3428** 文档生成器，它生成HTML文档，显示与代码混合的注释 ![star > 2000][Awesome] 
-- [JSDoc](https://github.com/jsdoc3/jsdoc) - **star:10753** 类似JavaDoc或PHPDoc的API文档生成器 ![star > 2000][Awesome] 
+- [peerwiki](https://github.com/mafintosh/peerwiki) - **star:299** 建立在在 BitTorrent 上的维基百科
+- [peercast](https://github.com/mafintosh/peercast) - **star:468** 将种子视频流式传输到 Chromecast
+- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - **star:3995** 干净、可读比特币库 ![star > 2000][Awesome] 
+- [Bitcore](https://github.com/bitpay/bitcore) - **star:3786** 纯净、强大的比特币库 ![star > 2000][Awesome] 
+- [PDFKit](https://github.com/devongovett/pdfkit) - **star:6704** PDF 生成库 ![star > 2000][Awesome] 
+- [turf](https://github.com/Turfjs/turf) - **star:5664** 模块化地理空间处理和分析引擎 ![star > 2000][Awesome] 
+- [webcat](https://github.com/mafintosh/webcat) - **star:413** 使用 WebRTC 跨 web 的 p2p 管道，它使用 GitHub 私有/公共密钥进行身份验证
+- [NodeOS](https://github.com/NodeOS/NodeOS) - **star:6294** 第一个由 npm 驱动的操作系统 ![star > 2000][Awesome] 
+- [YodaOS](https://github.com/yodaos-project/yodaos) - **star:1043** 人工智能操作系统
+- [Brain.js](https://github.com/BrainJS/brain.js) - **star:11522** 机器学习框架 ![star > 2000][Awesome] 
