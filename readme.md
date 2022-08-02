@@ -168,7 +168,7 @@
 	<br>
 </div>
 
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2022-08-01 15:25:41）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2022-08-02 08:36:52）**
 
 顺便推荐一个 Go 的中文列表 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn/)
 
@@ -278,7 +278,7 @@
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - **star:8574** 图论(又称网络)建模与分析 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [js-git](https://github.com/creationix/js-git) - **star:3782** Git的 JavaScript 实现 ![star > 2000][Awesome] 
 - [xlsx](https://github.com/SheetJS/sheetjs) - **star:30852** 纯 js 实现的 Excel 电子表格读写器 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - **star:6421** 纯 JavaScript 实现的 Git ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - **star:6421** 纯 JavaScript 实现的 Git ![star > 2000][Awesome] 
 
 ### 命令行程序
 *翻译出错了? 试试 [英文版](readme_en.md#Command-line%20apps) 吧~*
@@ -373,7 +373,7 @@
 - [leakage](https://github.com/andywer/leakage) - **star:1547** 编写内存泄漏测试
 - [llnode](https://github.com/nodejs/llnode) - **star:995** 后期分析工具，允许检查对象，并从崩溃的Node.js进程中获取细节
 - [thetool](https://github.com/sfninja/thetool) - **star:195** 以Chrome DevTools的格式为应用程序捕获不同的CPU、内存和其他配置文件
-- [swagger-stats](https://github.com/slanatech/swagger-stats) - **star:735** 跟踪API调用并监视API性能、健康状况和使用指标 ![最近一周有更新][Green] 
+- [swagger-stats](https://github.com/slanatech/swagger-stats) - **star:735** 跟踪API调用并监视API性能、健康状况和使用指标
 - [NiM](https://github.com/june07/nim) - **star:182** 管理DevTools调试工作流程。
 - [dats](https://github.com/immobiliare/dats) - **star:68** 极简和零依赖[StatsD](https://github.com/statsd/statsd)客户端。 ![最近一周有更新][Green] 
 
@@ -478,7 +478,7 @@
 - [Meteor](https://github.com/meteor/meteor) - **star:42949** 一个超简单的、无处不在的数据库、在线数据、纯javascript web框架*(你可能会喜欢[awesome-meteor](https://github.com/Urigo/awesome-meteor))* ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [Restify](https://github.com/restify/node-restify) - **star:10469** 使您能够构建正确的REST web服务 ![star > 2000][Awesome] 
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - **star:5271** 框架与ES2015+支持，WebSockets, REST API ![star > 2000][Awesome] 
-- [ActionHero](https://github.com/actionhero/actionhero) - **star:2312** 为TCP套接字、WebSockets和HTTP客户机创建可重用和可伸缩api的框架 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [ActionHero](https://github.com/actionhero/actionhero) - **star:2312** 为TCP套接字、WebSockets和HTTP客户机创建可重用和可伸缩api的框架 ![star > 2000][Awesome] 
 - [seneca](https://github.com/senecajs/seneca) - **star:3867** 编写微服务的工具包 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [AdonisJs](https://github.com/adonisjs/core) - **star:12797** 一个真正的Node.js MVC框架，建立在依赖注入和IoC容器的坚实基础上 ![star > 2000][Awesome] 
 - [Moleculer](https://github.com/moleculerjs/moleculer) - **star:5208** 快速强大的微服务框架 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
@@ -558,7 +558,7 @@
 *翻译出错了? 试试 [英文版](readme_en.md#Real-time) 吧~*
 
 - [µWebSockets](https://github.com/uNetworking/uWebSockets) - **star:14025** 高度可伸缩的WebSocket服务器和客户端库 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
-- [Socket.io](https://github.com/socketio/socket.io) - **star:56303** 支持实时双向基于事件的通信 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [Socket.io](https://github.com/socketio/socket.io) - **star:56303** 支持实时双向基于事件的通信 ![star > 2000][Awesome] 
 - [Faye](https://github.com/faye/faye) - **star:4359** 实时客户端-服务器消息总线，基于Bayeux协议 ![star > 2000][Awesome] 
 - [SocketCluster](https://github.com/SocketCluster/socketcluster) - **star:5957** 可伸缩的HTTP + WebSocket引擎，可以运行在多个CPU核心 ![star > 2000][Awesome] 
 - [Primus](https://github.com/primus/primus) - **star:4357** 实时框架的抽象层，以防止模块锁定 ![star > 2000][Awesome] 
@@ -576,7 +576,7 @@
 - [gm](https://github.com/aheckmann/gm) - **star:6642** GraphicsMagick和ImageMagick包装器 ![star > 2000][Awesome] 
 - [lwip](https://github.com/EyalAr/lwip) - **star:2332** 轻量级图像处理器，不需要ImageMagick ![star > 2000][Awesome] 
 - [pica](https://github.com/nodeca/pica) - **star:3117** 高品质和快速调整大小(lanczos3)在纯JS替代画布drawImage()，当不允许像素化时 ![star > 2000][Awesome] 
-- [jimp](https://github.com/oliver-moran/jimp) - **star:12060** 图像处理在纯JavaScript ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [jimp](https://github.com/oliver-moran/jimp) - **star:12060** 图像处理在纯JavaScript ![star > 2000][Awesome] 
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - **star:777** 获得大多数图像格式的大小，而不完全下载
 - [qrcode](https://github.com/soldair/node-qrcode) - **star:5851** 二维码和条形码发生器 ![star > 2000][Awesome] 
 - [ImageScript](https://github.com/matmen/ImageScript) - **star:414** 图像处理的JavaScript，利用WebAssembly的性能。
@@ -954,7 +954,7 @@
 - [genepi](https://github.com/Geode-solutions/genepi) - **star:59** 从c++代码自动生成一个本机Node.js插件。
 - [husky](https://github.com/typicode/husky) - **star:27233** 创建Git钩子脚本。 ![star > 2000][Awesome] 
 - [patch-package](https://github.com/ds300/patch-package) - **star:7174** 修复并保留npm依赖。 ![star > 2000][Awesome] 
-- [editly](https://github.com/mifi/editly) - **star:3473** 声明式视频编辑API。 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [editly](https://github.com/mifi/editly) - **star:3473** 声明式视频编辑API。 ![star > 2000][Awesome] 
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - **star:488** 带有通配符和正则表达式的对象属性路径。 ![最近一周有更新][Green] 
 
 ## 资源
