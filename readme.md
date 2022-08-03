@@ -168,7 +168,7 @@
 	<br>
 </div>
 
-**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2022-08-02 08:36:52）**
+**此项目是 [awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md) 中文版，每天定时同步（上次同步时间：2022-08-03 08:39:22）**
 
 顺便推荐一个 Go 的中文列表 [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn/)
 
@@ -266,10 +266,10 @@
 - [stackgl](https://github.com/stackgl) - **star:undefined** 基于 browserify 和 npm 的 WebGL 开放软件生态系统
 - [peerwiki](https://github.com/mafintosh/peerwiki) - **star:305** 建立在在 BitTorrent 上的维基百科 ![最近一年没有更新][Yellow] 
 - [peercast](https://github.com/mafintosh/peercast) - **star:494** 将种子视频流式传输到 Chromecast ![最近一年没有更新][Yellow] 
-- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - **star:4669** 干净、可读比特币库 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - **star:4669** 干净、可读比特币库 ![star > 2000][Awesome] 
 - [Bitcore](https://github.com/bitpay/bitcore) - **star:4396** 纯净、强大的比特币库 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [PDFKit](https://github.com/foliojs/pdfkit) - **star:8206** PDF 生成库 ![star > 2000][Awesome] 
-- [turf](https://github.com/Turfjs/turf) - **star:7250** 模块化地理空间处理和分析引擎 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [turf](https://github.com/Turfjs/turf) - **star:7250** 模块化地理空间处理和分析引擎 ![star > 2000][Awesome] 
 - [webcat](https://github.com/mafintosh/webcat) - **star:422** 使用 WebRTC 跨 web 的 p2p 管道，它使用 GitHub 私有/公共密钥进行身份验证 ![最近一年没有更新][Yellow] 
 - [NodeOS](https://github.com/NodeOS/NodeOS) - **star:6687** 第一个由 npm 驱动的操作系统 ![star > 2000][Awesome] 
 - [YodaOS](https://github.com/yodaos-project/yodaos) - **star:1151** 人工智能操作系统 ![最近一年没有更新][Yellow] 
@@ -340,7 +340,7 @@
 - [immutable](https://github.com/immutable-js/immutable-js) - **star:32147** 不可变数据集合 ![star > 2000][Awesome] 
 - [Ramda](https://github.com/ramda/ramda) - **star:22215** 实用工具库，侧重于灵活的功能组合，通过自动套用和反转参数顺序启用避免变异数据 ![star > 2000][Awesome] 
 - [Mout](https://github.com/mout/mout) - **star:1257** 实用工具库与其他现有解决方案最大的区别在于，您可以选择只加载您需要的模块/函数，而不需要额外的开销
-- [RxJS](https://github.com/reactivex/rxjs) - **star:27427** 用于转换、组合和查询各种数据的响应式函数编程库 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [RxJS](https://github.com/reactivex/rxjs) - **star:27427** 用于转换、组合和查询各种数据的响应式函数编程库 ![star > 2000][Awesome] 
 - [Kefir.js](https://github.com/kefirjs/kefir) - **star:1793** 响应式，专注于高性能和低内存使用
 
 ### HTTP
@@ -353,7 +353,7 @@
 - [axios](https://github.com/axios/axios) - **star:94892** 基于 Promise 的HTTP客户端(也适用于浏览器) ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [superagent](https://github.com/visionmedia/superagent) - **star:16088** HTTP请求库 ![star > 2000][Awesome] 
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - **star:274** 通过可配置路由提供JSON文件或JavaScript对象的内容，构建一个伪后端
-- [cacheable-request](https://github.com/lukechilds/cacheable-request) - **star:240** 支持符合RFC的缓存的HTTP请求封装 ![最近一周有更新][Green] 
+- [cacheable-request](https://github.com/lukechilds/cacheable-request) - **star:240** 支持符合RFC的缓存的HTTP请求封装
 - [gotql](https://github.com/khaosdoctor/gotql) - **star:380** 构建于[got]之上(https://github.com/sindresorhus/got)的GraphQL请求库
 - [global-agent](https://github.com/gajus/global-agent) - **star:234** 可使用环境变量配置的全局HTTP/HTTPS代理代理。
 - [smoke](https://github.com/sinedied/smoke) - **star:157** 具有记录能力的基于文件的HTTP模拟服务器。
@@ -392,7 +392,7 @@
 - [chalk](https://github.com/chalk/chalk) - **star:18855** 终端字符串样式设置 ![star > 2000][Awesome] 
 - [meow](https://github.com/sindresorhus/meow) - **star:3017** CLI应用助手 ![star > 2000][Awesome] 
 - [yargs](https://github.com/yargs/yargs) - **star:9891** 自动生成优雅用户界面的命令行解析器 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
-- [ora](https://github.com/sindresorhus/ora) - **star:7847** 优雅的终端 spinner ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [ora](https://github.com/sindresorhus/ora) - **star:7847** 优雅的终端 spinner ![star > 2000][Awesome] 
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - **star:316** 简单的 stdin
 - [log-update](https://github.com/sindresorhus/log-update) - **star:942** 通过覆盖终端中的前一个输出来记录日志用于绘制进度条、动画等
 - [Ink](https://github.com/vadimdemedes/ink) - **star:18835** 对交互式命令行应用程序作出反应 ![star > 2000][Awesome] 
@@ -530,7 +530,7 @@
 - [p-map](https://github.com/sindresorhus/p-map) - **star:889** 同时映射承诺
 	- [More…](https://github.com/sindresorhus/promise-fun)
 - Observables
-- [RxJS](https://github.com/ReactiveX/RxJS) - **star:27427** 反应性编程 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [RxJS](https://github.com/ReactiveX/RxJS) - **star:27427** 反应性编程 ![star > 2000][Awesome] 
 - [observable-to-promise](https://github.com/sindresorhus/awesome-observables) - **star:314** 将可观察到的转化为承诺
 	- [More…](https://github.com/sindresorhus/awesome-observables)
 - Streams
@@ -548,7 +548,7 @@
 - [binary-split](https://github.com/maxogden/binary-split) - **star:74** 换行(或任何分隔符)拆分器流 ![最近一年没有更新][Yellow] 
 - [byline](https://github.com/jahewson/node-byline) - **star:315** 超简单的逐行流阅读器 ![最近一年没有更新][Yellow] 
 - [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - **star:25** 转换流中的第一个块
-- [pad-stream](https://github.com/sindresorhus/pad-stream) - **star:9** 将每一行填充到一个流中 ![最近一周有更新][Green] 
+- [pad-stream](https://github.com/sindresorhus/pad-stream) - **star:9** 将每一行填充到一个流中
 - [multistream](https://github.com/feross/multistream) - **star:271** 将多个流合并到一个流中
 - [stream-combiner2](https://github.com/substack/stream-combiner2) - **star:73** 将管道转换为单个流 ![最近一年没有更新][Yellow] 
 - [readable-stream](https://github.com/nodejs/readable-stream) - **star:934** 核心中Streams2和Streams3实现的镜像
@@ -753,7 +753,7 @@
 - [Mochify](https://github.com/mantoni/mochify.js) - **star:343** TDD与Browserify, Mocha, PhantomJS和WebDriver
 - [trevor](https://github.com/vadimdemedes/trevor) - **star:2141** 运行多个版本的Node.js测试，不需要手动切换版本或推送到Travis CI ![star > 2000][Awesome]  ![最近一年没有更新][Yellow] 
 - [loadtest](https://github.com/alexfernandez/loadtest) - **star:2291** 使用用于自动化的API为web应用程序运行负载测试 ![star > 2000][Awesome] 
-- [Sinon.JS](https://github.com/sinonjs/sinon) - **star:9057** 测试间谍，存根和嘲笑 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [Sinon.JS](https://github.com/sinonjs/sinon) - **star:9057** 测试间谍，存根和嘲笑 ![star > 2000][Awesome] 
 - [navit](https://github.com/nodeca/navit) - **star:47** PhantomJS / SlimerJS包装器，用于简化浏览器测试脚本
 - [Nock](https://github.com/nock/nock) - **star:11609** HTTP模拟和期望 ![star > 2000][Awesome] 
 - [intern](https://github.com/theintern/intern) - **star:4345** 代码测试堆栈 ![star > 2000][Awesome] 
@@ -770,7 +770,7 @@
 - [Playwright](https://github.com/microsoft/playwright) - **star:40572** Headless Chromium，WebKit，和 Firefox 使用单一的 API。 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [nve](https://github.com/ehmicky/nve) - **star:582** 在Node.js的多个版本上本地运行任何命令。 ![最近一周有更新][Green] 
 - [axe-core](https://github.com/dequelabs/axe-core) - **star:4664** 用于自动化Web UI测试的可访问性引擎。 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
-- [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - **star:824** 提供通用数据库、Selenium web浏览器或任何可以在Docker容器中运行的东西的轻量级、一次性实例。 ![最近一周有更新][Green] 
+- [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - **star:824** 提供通用数据库、Selenium web浏览器或任何可以在Docker容器中运行的东西的轻量级、一次性实例。
 
 ### 安全
 *翻译出错了? 试试 [英文版](readme_en.md#Security) 吧~*
@@ -938,13 +938,13 @@
 - [ow](https://github.com/sindresorhus/ow) - **star:3550** 用于人的函数参数验证 ![star > 2000][Awesome] 
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - **star:2255** 使用本机线程实现轻量级Web工作者API ![star > 2000][Awesome] 
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - **star:1475** 访问系统剪贴板(复制/粘贴)
-- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - **star:998** 使从二进制文件发布和安装Node.js c++插件变得容易 ![最近一周有更新][Green] 
+- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - **star:998** 使从二进制文件发布和安装Node.js c++插件变得容易
 - [opencv](https://github.com/peterbraden/node-opencv) - **star:4237** 绑定OpenCV事实上的计算机视觉库 ![star > 2000][Awesome] 
 - [dotenv](https://github.com/motdotla/dotenv) - **star:15754** 从.env文件中加载环境变量 ![star > 2000][Awesome]  ![最近一周有更新][Green] 
 - [semver](https://github.com/npm/node-semver) - **star:4274** 语义版本解析器 ![star > 2000][Awesome] 
 - [nodegit](https://github.com/nodegit/nodegit) - **star:5242** 到Git的本机绑定 ![star > 2000][Awesome] 
 - [json-strictify](https://github.com/pigulla/json-strictify) - **star:14** 安全地将值序列化为JSON，而不会丢失数据或进入无限循环 ![最近一周有更新][Green] 
-- [jsdom](https://github.com/jsdom/jsdom) - **star:17699** JavaScript实现的HTML和DOM ![star > 2000][Awesome]  ![最近一周有更新][Green] 
+- [jsdom](https://github.com/jsdom/jsdom) - **star:17699** JavaScript实现的HTML和DOM ![star > 2000][Awesome] 
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - **star:1389** 类型检查值
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - **star:31** 获取、设置或删除进程的嵌套属性使用点路径的env ![最近一年没有更新][Yellow] 
 - [emittery](https://github.com/sindresorhus/emittery) - **star:1402** 简单而现代的异步事件发射器
