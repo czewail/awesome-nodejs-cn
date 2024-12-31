@@ -17,11 +17,6 @@
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
-		</a>
-		<br>
-		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-nodejs&utm_source=github">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
@@ -60,17 +55,13 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://encore.dev?utm_campaign=github_repo&utm_medium=referral&utm_content=sindre&utm_source=github">
+		<a href="https://nitric.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=sindresorhus&utm_source=github">
 			<div>
-				<picture>
-					<source width="230" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-dark.svg">
-					<source width="230" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-light.svg">
-					<img width="230" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
-				</picture>
+				<img width="230" src="https://sindresorhus.com/assets/thanks/nitric-logo.svg" alt="nitric logo">
 			</div>
-			<b>The development platform for building type-safe distributed systems</b>
+			<b>Effortless backends with infrastructure from code</b>
 			<div>
-				<sup>End-to-end tooling from local development to automated DevOps and infrastructure in your AWS/GCP.</sup>
+				<sup>An open-source framework that supports any programming language, cloud provider, or deployment automation tool.</sup>
 			</div>
 		</a>
 		<br>
@@ -932,7 +923,7 @@
 - [RunKit](https://runkit.com) - Embed a Node.js environment on any website.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
 - [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
-- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
+- [CodeSandbox](https://codesandbox.io/templates/node-http-server) - Online IDE and prototyping.
 - [Amplication](https://github.com/amplication/amplication) - Auto-generates fully functional apps.
 - [RunJS](https://runjs.app) - Desktop JavaScript playground.
 
